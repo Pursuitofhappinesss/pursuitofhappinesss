@@ -36,5 +36,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pursuitofhappinesss&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Pursuitofhappinesss/github-readme-stats)
 
--->
 ⭐️ From [Amrit](https://github.com/Pursuitofhappinesss)
